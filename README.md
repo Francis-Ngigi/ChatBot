@@ -1,1 +1,1 @@
-# ChatBot
+# machakos-simple-chatbot
